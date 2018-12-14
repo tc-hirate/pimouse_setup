@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Junji Mochizuki
+#Written by J. Mochizuki
 
 exec 2> /tmp/setup.log
 
